@@ -1,5 +1,5 @@
 /*
- * class.c
+ * class.c 
  *
  *       Copyright (c) Ruvendix. 모든 저작권은 본인에게 있습니다.
  *
